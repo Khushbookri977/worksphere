@@ -103,10 +103,6 @@ cd frontend
 npm install
 ```
 
-### Step 5: Add Test Data
-
-Import the provided SQL file to populate sample data into your database.
-
 ---
 
 ## 🚀 Running the Application
