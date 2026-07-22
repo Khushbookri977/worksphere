@@ -135,6 +135,7 @@ Frontend runs on: **http://localhost:3000**
 
 ## 📁 Project Structure
 
+```
 employee-management-system/
 ├── employee-management-system/          # Backend (Spring Boot)
 │   ├── src/main/java/com/ems/
@@ -169,6 +170,7 @@ employee-management-system/
 │   └── pages/Home.css               # Landing Page Styles
 ├── package.json                     # Dependencies
 └── .env                             # Environment Variables
+```
 
 ---
 
