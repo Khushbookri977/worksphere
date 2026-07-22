@@ -70,7 +70,7 @@ Before you begin, ensure you have installed:
 ### Step 1: Clone the Repository
 
 ```bash
-git clone <your-repository-url>
+git clone https://github.com/Khushbookri977/worksphere.git
 cd employee-management-system
 ```
 
