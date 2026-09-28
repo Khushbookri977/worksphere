@@ -9,7 +9,7 @@ A full-stack web application for managing employees, departments, and viewing re
 ### Core Functionality
 - ✅ **Employee Management** - Create, read, update, delete employee records
 - ✅ **Department Management** - Organize employees by departments
-- � **Real-time Analytics** - Visual dashboards with charts and metrics
+- ✅ **Real-time Analytics** - Visual dashboards with charts and metrics
 - ✅ **Salary Statistics** - Average, minimum, and maximum salary tracking
 - ✅ **Department Analytics** - Headcount and employee distribution by department
 
@@ -309,9 +309,8 @@ Refer to platform-specific documentation for deployment instructions.
 
 ## 👨‍💻 Author
 
-**Rahul Yadav**
+**Khushboo Kumari**
 - Java Backend Developer | Full-Stack Developer
-- 2.7+ years of experience in Spring Boot & Microservices
 - Strong in competitive programming and system design
 
 ---
@@ -370,6 +369,6 @@ If you found this project helpful, please consider giving it a star!
 
 ---
 
-**Made with ❤️ by Rahul Yadav**
+**Made with ❤️ by Khushboo Kumari**
 
 Last Updated: July 2026
